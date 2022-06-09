@@ -1,0 +1,1136 @@
+[
+    {
+        "id": "ff1317b1-f471-41ec-9f9c-dd77ef5be1bc",
+        "createdAt": "2022-06-08T11:20:37.719Z",
+        "updatedAt": "2022-06-08T11:20:37.719Z",
+        "name": "Alert/Error/Active",
+        "value": {
+            "a": 1,
+            "b": 54,
+            "g": 67,
+            "r": 244
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "5:151",
+        "sourceId": "1a78d8ff-fe10-42ef-8eff-d1015f6c9bb9",
+        "repositoryId": "47de96c3-1228-40a0-9b28-9d9d90e39c31"
+    },
+    {
+        "id": "81ddb349-3caf-4c63-ac47-f8029bb9e6eb",
+        "createdAt": "2022-06-08T11:20:37.696Z",
+        "updatedAt": "2022-06-08T11:20:37.696Z",
+        "name": "Alert/Error/Inactive",
+        "value": {
+            "a": 1,
+            "b": 205,
+            "g": 209,
+            "r": 251
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "5:153",
+        "sourceId": "1a78d8ff-fe10-42ef-8eff-d1015f6c9bb9",
+        "repositoryId": "47de96c3-1228-40a0-9b28-9d9d90e39c31"
+    },
+    {
+        "id": "2fae9d38-d82b-4047-b0c7-89ec41eb2767",
+        "createdAt": "2022-06-08T11:20:37.683Z",
+        "updatedAt": "2022-06-08T11:20:37.683Z",
+        "name": "Alert/Success/Active",
+        "value": {
+            "a": 1,
+            "b": 74,
+            "g": 195,
+            "r": 139
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "5:152",
+        "sourceId": "1a78d8ff-fe10-42ef-8eff-d1015f6c9bb9",
+        "repositoryId": "47de96c3-1228-40a0-9b28-9d9d90e39c31"
+    },
+    {
+        "id": "ef33588f-6415-4a31-bb5c-baf108c36e69",
+        "createdAt": "2022-06-08T11:20:37.696Z",
+        "updatedAt": "2022-06-08T11:20:37.696Z",
+        "name": "Alert/Success/Inactive",
+        "value": {
+            "a": 1,
+            "b": 210,
+            "g": 240,
+            "r": 226
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "5:155",
+        "sourceId": "1a78d8ff-fe10-42ef-8eff-d1015f6c9bb9",
+        "repositoryId": "47de96c3-1228-40a0-9b28-9d9d90e39c31"
+    },
+    {
+        "id": "005965f8-4553-4b13-94ce-3ef18f3ba607",
+        "createdAt": "2022-06-08T11:20:37.710Z",
+        "updatedAt": "2022-06-08T11:20:37.710Z",
+        "name": "Alert/Warning/Active",
+        "value": {
+            "a": 1,
+            "b": 67,
+            "g": 112,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "5:150",
+        "sourceId": "1a78d8ff-fe10-42ef-8eff-d1015f6c9bb9",
+        "repositoryId": "47de96c3-1228-40a0-9b28-9d9d90e39c31"
+    },
+    {
+        "id": "879ac95e-6b49-41cd-a271-c8c4c45e7508",
+        "createdAt": "2022-06-08T11:20:37.721Z",
+        "updatedAt": "2022-06-08T11:20:37.721Z",
+        "name": "Alert/Warning/Inactive",
+        "value": {
+            "a": 1,
+            "b": 209,
+            "g": 220,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "5:154",
+        "sourceId": "1a78d8ff-fe10-42ef-8eff-d1015f6c9bb9",
+        "repositoryId": "47de96c3-1228-40a0-9b28-9d9d90e39c31"
+    },
+    {
+        "id": "22d337be-2119-4579-ad3b-700ee6f13cbd",
+        "createdAt": "2022-06-08T12:51:29.955Z",
+        "updatedAt": "2022-06-08T12:51:29.955Z",
+        "name": "B1 - Body Text 1",
+        "value": {
+            "font": {
+                "id": "520f67b0-12e7-49b0-a711-10f6a3f04878",
+                "createdAt": "2022-06-08T12:51:29.935Z",
+                "updatedAt": "2022-06-09T10:01:37.953Z",
+                "name": "MuseoSans-500",
+                "value": {
+                    "format": "ttf",
+                    "isItalic": false,
+                    "provider": "Custom font",
+                    "fontFamily": "Museo Sans",
+                    "fontWeight": 500,
+                    "fontFileMissing": false,
+                    "fontPostScriptName": "MuseoSans-500",
+                    "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/47de96c3-1228-40a0-9b28-9d9d90e39c31/font/MuseoSans-500/MuseoSans-500.ttf?AWSAccessKeyId=ASIAYLKZPEWOPZFUH6TJ&Expires=1654786809&Signature=ze4eUgej2fhnVCSwNVmGOp2T1vw%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEA4aCWV1LXdlc3QtMSJGMEQCIDFpxoWBKeIWruNavAW08KHRnUAn7dExQqsKQMKZ9SnjAiAiVz4TJHngc0ieY%2FDSmVWBund7clAYEiUwkCz7VUiTtirvAwgWEAMaDDU3NDEwMjY0NDEyNCIMdJ6f6d7bkniY1ut1KswDXEbBNR7UTbaauvG75jcgNqAY1Zb9QhdQtlgRgBzy97hNa2DiOBaSrbIr4upuKAlHn%2BIfnS3k60N2kXxCBXNJmnCPd25rRODBibf%2FVtKhDkEmf5PxB91mx8mTuVitSPQWNyM9BsSVQ0%2FO%2F4JIVOhCSO9O%2FPcsegGVzJsqiSwdnvCikZJrEHV5%2F97T1Hgi8qkOJFdaNOiXbYSVBaTPcWWANDqoKmrJmKMtkEvx%2FapdlM0xkwXvLpcv%2BVXvQV4ZdK2KrYESierMHBUaOCL5ZS5SWailfgWJfqlFTNnSwEimvbt0%2Bebimk7aCQryWho5gPjb%2FTb%2FQ%2FWevOdYPmgscj2OMqsV37%2BqUAd85nteTof2TqHIfEvAjf68Dh7W63IU0xBMXBd03fB%2BI%2Bs6rMaXc1kqLgZXXthYDXoEbkthuV21%2BsBUR9timbYyDASB1lYsITeI66dlaFUmsYYVNe6NFK8tjA88o9A2b2M4Ound%2Bm2nlfnQQoD%2BqtTkJLjo14DU%2FWTRKRSD50GYHOXvOMxScl3bHi%2FsZqK6%2BXCIqEVVZKFUXHi%2FotQ2F6aElQZrrRohn6AqY%2B5gWG3fW5xHZivv2YlH77WT9A06kEJ%2FwlhBNjCa54eVBjqmAV1nguFp%2FS3o9v%2Bl%2FGLW3Jvg%2FZe%2FfeeeI%2BZsxg25rvYVPQJ%2F6OqB%2FxF6gpX78dj%2BYCkLRTXC7CYwMZNyo2s2%2Bbj4n63u6okezWeZqi0%2F9hLkV5BFzrSeVFZGEpQ0LqcIEwr4g3supkHG4fVGcvbrZsyMqXz4iSYJtpKNwllTvFPtIEnWRcxa9bZ%2FIpDp8M0A%2FTZOrb%2FyvmZDE55osP4bzd9pHJ7I2Rc%3D"
+                },
+                "meta": {
+                    "source": "localStyles"
+                },
+                "type": "font",
+                "originId": "MuseoSans-500",
+                "sourceId": "29e5b080-7f79-47f1-af1c-e07412ff0f6f",
+                "repositoryId": "47de96c3-1228-40a0-9b28-9d9d90e39c31"
+            },
+            "fontSize": {
+                "value": {
+                    "unit": "px",
+                    "measure": 16
+                }
+            },
+            "textAlign": {
+                "vertical": "top",
+                "horizontal": "left"
+            },
+            "lineHeight": {
+                "value": {
+                    "unit": "px",
+                    "measure": 24
+                }
+            }
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "textStyle",
+        "originId": "5:114",
+        "sourceId": "29e5b080-7f79-47f1-af1c-e07412ff0f6f",
+        "repositoryId": "47de96c3-1228-40a0-9b28-9d9d90e39c31"
+    },
+    {
+        "id": "ae61c1f2-4ac1-4c08-a5ae-cfb158f36f35",
+        "createdAt": "2022-06-08T12:51:29.958Z",
+        "updatedAt": "2022-06-08T12:51:29.958Z",
+        "name": "B1L - Body Text 1 Light",
+        "value": {
+            "font": {
+                "id": "f538634a-04a9-4b67-87c9-764f626e8084",
+                "createdAt": "2022-06-08T12:51:29.941Z",
+                "updatedAt": "2022-06-09T10:01:37.953Z",
+                "name": "MuseoSans-300",
+                "value": {
+                    "format": "ttf",
+                    "isItalic": false,
+                    "provider": "Custom font",
+                    "fontFamily": "Museo Sans",
+                    "fontWeight": 300,
+                    "fontFileMissing": false,
+                    "fontPostScriptName": "MuseoSans-300",
+                    "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/47de96c3-1228-40a0-9b28-9d9d90e39c31/font/MuseoSans-300/MuseoSans-300.ttf?AWSAccessKeyId=ASIAYLKZPEWOPZFUH6TJ&Expires=1654786809&Signature=%2F8LRsEUBCXBSErwRl9YkI3hO3iw%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEA4aCWV1LXdlc3QtMSJGMEQCIDFpxoWBKeIWruNavAW08KHRnUAn7dExQqsKQMKZ9SnjAiAiVz4TJHngc0ieY%2FDSmVWBund7clAYEiUwkCz7VUiTtirvAwgWEAMaDDU3NDEwMjY0NDEyNCIMdJ6f6d7bkniY1ut1KswDXEbBNR7UTbaauvG75jcgNqAY1Zb9QhdQtlgRgBzy97hNa2DiOBaSrbIr4upuKAlHn%2BIfnS3k60N2kXxCBXNJmnCPd25rRODBibf%2FVtKhDkEmf5PxB91mx8mTuVitSPQWNyM9BsSVQ0%2FO%2F4JIVOhCSO9O%2FPcsegGVzJsqiSwdnvCikZJrEHV5%2F97T1Hgi8qkOJFdaNOiXbYSVBaTPcWWANDqoKmrJmKMtkEvx%2FapdlM0xkwXvLpcv%2BVXvQV4ZdK2KrYESierMHBUaOCL5ZS5SWailfgWJfqlFTNnSwEimvbt0%2Bebimk7aCQryWho5gPjb%2FTb%2FQ%2FWevOdYPmgscj2OMqsV37%2BqUAd85nteTof2TqHIfEvAjf68Dh7W63IU0xBMXBd03fB%2BI%2Bs6rMaXc1kqLgZXXthYDXoEbkthuV21%2BsBUR9timbYyDASB1lYsITeI66dlaFUmsYYVNe6NFK8tjA88o9A2b2M4Ound%2Bm2nlfnQQoD%2BqtTkJLjo14DU%2FWTRKRSD50GYHOXvOMxScl3bHi%2FsZqK6%2BXCIqEVVZKFUXHi%2FotQ2F6aElQZrrRohn6AqY%2B5gWG3fW5xHZivv2YlH77WT9A06kEJ%2FwlhBNjCa54eVBjqmAV1nguFp%2FS3o9v%2Bl%2FGLW3Jvg%2FZe%2FfeeeI%2BZsxg25rvYVPQJ%2F6OqB%2FxF6gpX78dj%2BYCkLRTXC7CYwMZNyo2s2%2Bbj4n63u6okezWeZqi0%2F9hLkV5BFzrSeVFZGEpQ0LqcIEwr4g3supkHG4fVGcvbrZsyMqXz4iSYJtpKNwllTvFPtIEnWRcxa9bZ%2FIpDp8M0A%2FTZOrb%2FyvmZDE55osP4bzd9pHJ7I2Rc%3D"
+                },
+                "meta": {
+                    "source": "localStyles"
+                },
+                "type": "font",
+                "originId": "MuseoSans-300",
+                "sourceId": "29e5b080-7f79-47f1-af1c-e07412ff0f6f",
+                "repositoryId": "47de96c3-1228-40a0-9b28-9d9d90e39c31"
+            },
+            "fontSize": {
+                "value": {
+                    "unit": "px",
+                    "measure": 16
+                }
+            },
+            "textAlign": {
+                "vertical": "top",
+                "horizontal": "left"
+            },
+            "lineHeight": {
+                "value": {
+                    "unit": "px",
+                    "measure": 20
+                }
+            }
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "textStyle",
+        "originId": "5:116",
+        "sourceId": "29e5b080-7f79-47f1-af1c-e07412ff0f6f",
+        "repositoryId": "47de96c3-1228-40a0-9b28-9d9d90e39c31"
+    },
+    {
+        "id": "e8e3b25e-f835-4bfc-9bed-3cbe5e944b81",
+        "createdAt": "2022-06-08T12:51:29.933Z",
+        "updatedAt": "2022-06-08T12:51:29.933Z",
+        "name": "B2 - Body Text 2",
+        "value": {
+            "font": {
+                "id": "520f67b0-12e7-49b0-a711-10f6a3f04878",
+                "createdAt": "2022-06-08T12:51:29.935Z",
+                "updatedAt": "2022-06-09T10:01:37.953Z",
+                "name": "MuseoSans-500",
+                "value": {
+                    "format": "ttf",
+                    "isItalic": false,
+                    "provider": "Custom font",
+                    "fontFamily": "Museo Sans",
+                    "fontWeight": 500,
+                    "fontFileMissing": false,
+                    "fontPostScriptName": "MuseoSans-500",
+                    "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/47de96c3-1228-40a0-9b28-9d9d90e39c31/font/MuseoSans-500/MuseoSans-500.ttf?AWSAccessKeyId=ASIAYLKZPEWOPZFUH6TJ&Expires=1654786809&Signature=ze4eUgej2fhnVCSwNVmGOp2T1vw%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEA4aCWV1LXdlc3QtMSJGMEQCIDFpxoWBKeIWruNavAW08KHRnUAn7dExQqsKQMKZ9SnjAiAiVz4TJHngc0ieY%2FDSmVWBund7clAYEiUwkCz7VUiTtirvAwgWEAMaDDU3NDEwMjY0NDEyNCIMdJ6f6d7bkniY1ut1KswDXEbBNR7UTbaauvG75jcgNqAY1Zb9QhdQtlgRgBzy97hNa2DiOBaSrbIr4upuKAlHn%2BIfnS3k60N2kXxCBXNJmnCPd25rRODBibf%2FVtKhDkEmf5PxB91mx8mTuVitSPQWNyM9BsSVQ0%2FO%2F4JIVOhCSO9O%2FPcsegGVzJsqiSwdnvCikZJrEHV5%2F97T1Hgi8qkOJFdaNOiXbYSVBaTPcWWANDqoKmrJmKMtkEvx%2FapdlM0xkwXvLpcv%2BVXvQV4ZdK2KrYESierMHBUaOCL5ZS5SWailfgWJfqlFTNnSwEimvbt0%2Bebimk7aCQryWho5gPjb%2FTb%2FQ%2FWevOdYPmgscj2OMqsV37%2BqUAd85nteTof2TqHIfEvAjf68Dh7W63IU0xBMXBd03fB%2BI%2Bs6rMaXc1kqLgZXXthYDXoEbkthuV21%2BsBUR9timbYyDASB1lYsITeI66dlaFUmsYYVNe6NFK8tjA88o9A2b2M4Ound%2Bm2nlfnQQoD%2BqtTkJLjo14DU%2FWTRKRSD50GYHOXvOMxScl3bHi%2FsZqK6%2BXCIqEVVZKFUXHi%2FotQ2F6aElQZrrRohn6AqY%2B5gWG3fW5xHZivv2YlH77WT9A06kEJ%2FwlhBNjCa54eVBjqmAV1nguFp%2FS3o9v%2Bl%2FGLW3Jvg%2FZe%2FfeeeI%2BZsxg25rvYVPQJ%2F6OqB%2FxF6gpX78dj%2BYCkLRTXC7CYwMZNyo2s2%2Bbj4n63u6okezWeZqi0%2F9hLkV5BFzrSeVFZGEpQ0LqcIEwr4g3supkHG4fVGcvbrZsyMqXz4iSYJtpKNwllTvFPtIEnWRcxa9bZ%2FIpDp8M0A%2FTZOrb%2FyvmZDE55osP4bzd9pHJ7I2Rc%3D"
+                },
+                "meta": {
+                    "source": "localStyles"
+                },
+                "type": "font",
+                "originId": "MuseoSans-500",
+                "sourceId": "29e5b080-7f79-47f1-af1c-e07412ff0f6f",
+                "repositoryId": "47de96c3-1228-40a0-9b28-9d9d90e39c31"
+            },
+            "fontSize": {
+                "value": {
+                    "unit": "px",
+                    "measure": 14
+                }
+            },
+            "textAlign": {
+                "vertical": "top",
+                "horizontal": "left"
+            },
+            "lineHeight": {
+                "value": {
+                    "unit": "px",
+                    "measure": 24
+                }
+            }
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "textStyle",
+        "originId": "5:117",
+        "sourceId": "29e5b080-7f79-47f1-af1c-e07412ff0f6f",
+        "repositoryId": "47de96c3-1228-40a0-9b28-9d9d90e39c31"
+    },
+    {
+        "id": "334b6715-2089-4a4c-adc9-c300a099b7c1",
+        "createdAt": "2022-06-08T11:20:37.674Z",
+        "updatedAt": "2022-06-08T11:20:37.674Z",
+        "name": "BLACK",
+        "value": {
+            "a": 1,
+            "b": 47,
+            "g": 47,
+            "r": 47
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "2:16",
+        "sourceId": "1a78d8ff-fe10-42ef-8eff-d1015f6c9bb9",
+        "repositoryId": "47de96c3-1228-40a0-9b28-9d9d90e39c31"
+    },
+    {
+        "id": "08980550-6fe6-4281-a3ec-3e0c42462b34",
+        "createdAt": "2022-06-08T12:51:29.935Z",
+        "updatedAt": "2022-06-08T12:51:29.935Z",
+        "name": "Button - Button Text",
+        "value": {
+            "font": {
+                "id": "84daa535-b781-4611-b40b-4ee1319ee241",
+                "createdAt": "2022-06-08T12:51:29.924Z",
+                "updatedAt": "2022-06-09T10:01:37.953Z",
+                "name": "MuseoSans-700",
+                "value": {
+                    "format": "ttf",
+                    "isItalic": false,
+                    "provider": "Custom font",
+                    "fontFamily": "Museo Sans",
+                    "fontWeight": 700,
+                    "fontFileMissing": false,
+                    "fontPostScriptName": "MuseoSans-700",
+                    "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/47de96c3-1228-40a0-9b28-9d9d90e39c31/font/MuseoSans-700/MuseoSans-700.ttf?AWSAccessKeyId=ASIAYLKZPEWOPZFUH6TJ&Expires=1654786809&Signature=8wtjabBkSiQHRioMSJs%2BjjKeYsg%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEA4aCWV1LXdlc3QtMSJGMEQCIDFpxoWBKeIWruNavAW08KHRnUAn7dExQqsKQMKZ9SnjAiAiVz4TJHngc0ieY%2FDSmVWBund7clAYEiUwkCz7VUiTtirvAwgWEAMaDDU3NDEwMjY0NDEyNCIMdJ6f6d7bkniY1ut1KswDXEbBNR7UTbaauvG75jcgNqAY1Zb9QhdQtlgRgBzy97hNa2DiOBaSrbIr4upuKAlHn%2BIfnS3k60N2kXxCBXNJmnCPd25rRODBibf%2FVtKhDkEmf5PxB91mx8mTuVitSPQWNyM9BsSVQ0%2FO%2F4JIVOhCSO9O%2FPcsegGVzJsqiSwdnvCikZJrEHV5%2F97T1Hgi8qkOJFdaNOiXbYSVBaTPcWWANDqoKmrJmKMtkEvx%2FapdlM0xkwXvLpcv%2BVXvQV4ZdK2KrYESierMHBUaOCL5ZS5SWailfgWJfqlFTNnSwEimvbt0%2Bebimk7aCQryWho5gPjb%2FTb%2FQ%2FWevOdYPmgscj2OMqsV37%2BqUAd85nteTof2TqHIfEvAjf68Dh7W63IU0xBMXBd03fB%2BI%2Bs6rMaXc1kqLgZXXthYDXoEbkthuV21%2BsBUR9timbYyDASB1lYsITeI66dlaFUmsYYVNe6NFK8tjA88o9A2b2M4Ound%2Bm2nlfnQQoD%2BqtTkJLjo14DU%2FWTRKRSD50GYHOXvOMxScl3bHi%2FsZqK6%2BXCIqEVVZKFUXHi%2FotQ2F6aElQZrrRohn6AqY%2B5gWG3fW5xHZivv2YlH77WT9A06kEJ%2FwlhBNjCa54eVBjqmAV1nguFp%2FS3o9v%2Bl%2FGLW3Jvg%2FZe%2FfeeeI%2BZsxg25rvYVPQJ%2F6OqB%2FxF6gpX78dj%2BYCkLRTXC7CYwMZNyo2s2%2Bbj4n63u6okezWeZqi0%2F9hLkV5BFzrSeVFZGEpQ0LqcIEwr4g3supkHG4fVGcvbrZsyMqXz4iSYJtpKNwllTvFPtIEnWRcxa9bZ%2FIpDp8M0A%2FTZOrb%2FyvmZDE55osP4bzd9pHJ7I2Rc%3D"
+                },
+                "meta": {
+                    "source": "localStyles"
+                },
+                "type": "font",
+                "originId": "MuseoSans-700",
+                "sourceId": "29e5b080-7f79-47f1-af1c-e07412ff0f6f",
+                "repositoryId": "47de96c3-1228-40a0-9b28-9d9d90e39c31"
+            },
+            "fontSize": {
+                "value": {
+                    "unit": "px",
+                    "measure": 14
+                }
+            },
+            "textAlign": {
+                "vertical": "top",
+                "horizontal": "left"
+            },
+            "lineHeight": {
+                "value": {
+                    "unit": "px",
+                    "measure": 20
+                }
+            },
+            "letterSpacing": {
+                "value": {
+                    "unit": "px",
+                    "measure": 0.20000000298023224
+                }
+            }
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "textStyle",
+        "originId": "5:121",
+        "sourceId": "29e5b080-7f79-47f1-af1c-e07412ff0f6f",
+        "repositoryId": "47de96c3-1228-40a0-9b28-9d9d90e39c31"
+    },
+    {
+        "id": "49f99cc3-847b-4909-b850-00c22c214bfb",
+        "createdAt": "2022-06-08T12:51:29.959Z",
+        "updatedAt": "2022-06-08T12:51:29.959Z",
+        "name": "CAPTION BOLD - Caption Text bold",
+        "value": {
+            "font": {
+                "id": "84daa535-b781-4611-b40b-4ee1319ee241",
+                "createdAt": "2022-06-08T12:51:29.924Z",
+                "updatedAt": "2022-06-09T10:01:37.953Z",
+                "name": "MuseoSans-700",
+                "value": {
+                    "format": "ttf",
+                    "isItalic": false,
+                    "provider": "Custom font",
+                    "fontFamily": "Museo Sans",
+                    "fontWeight": 700,
+                    "fontFileMissing": false,
+                    "fontPostScriptName": "MuseoSans-700",
+                    "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/47de96c3-1228-40a0-9b28-9d9d90e39c31/font/MuseoSans-700/MuseoSans-700.ttf?AWSAccessKeyId=ASIAYLKZPEWOPZFUH6TJ&Expires=1654786809&Signature=8wtjabBkSiQHRioMSJs%2BjjKeYsg%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEA4aCWV1LXdlc3QtMSJGMEQCIDFpxoWBKeIWruNavAW08KHRnUAn7dExQqsKQMKZ9SnjAiAiVz4TJHngc0ieY%2FDSmVWBund7clAYEiUwkCz7VUiTtirvAwgWEAMaDDU3NDEwMjY0NDEyNCIMdJ6f6d7bkniY1ut1KswDXEbBNR7UTbaauvG75jcgNqAY1Zb9QhdQtlgRgBzy97hNa2DiOBaSrbIr4upuKAlHn%2BIfnS3k60N2kXxCBXNJmnCPd25rRODBibf%2FVtKhDkEmf5PxB91mx8mTuVitSPQWNyM9BsSVQ0%2FO%2F4JIVOhCSO9O%2FPcsegGVzJsqiSwdnvCikZJrEHV5%2F97T1Hgi8qkOJFdaNOiXbYSVBaTPcWWANDqoKmrJmKMtkEvx%2FapdlM0xkwXvLpcv%2BVXvQV4ZdK2KrYESierMHBUaOCL5ZS5SWailfgWJfqlFTNnSwEimvbt0%2Bebimk7aCQryWho5gPjb%2FTb%2FQ%2FWevOdYPmgscj2OMqsV37%2BqUAd85nteTof2TqHIfEvAjf68Dh7W63IU0xBMXBd03fB%2BI%2Bs6rMaXc1kqLgZXXthYDXoEbkthuV21%2BsBUR9timbYyDASB1lYsITeI66dlaFUmsYYVNe6NFK8tjA88o9A2b2M4Ound%2Bm2nlfnQQoD%2BqtTkJLjo14DU%2FWTRKRSD50GYHOXvOMxScl3bHi%2FsZqK6%2BXCIqEVVZKFUXHi%2FotQ2F6aElQZrrRohn6AqY%2B5gWG3fW5xHZivv2YlH77WT9A06kEJ%2FwlhBNjCa54eVBjqmAV1nguFp%2FS3o9v%2Bl%2FGLW3Jvg%2FZe%2FfeeeI%2BZsxg25rvYVPQJ%2F6OqB%2FxF6gpX78dj%2BYCkLRTXC7CYwMZNyo2s2%2Bbj4n63u6okezWeZqi0%2F9hLkV5BFzrSeVFZGEpQ0LqcIEwr4g3supkHG4fVGcvbrZsyMqXz4iSYJtpKNwllTvFPtIEnWRcxa9bZ%2FIpDp8M0A%2FTZOrb%2FyvmZDE55osP4bzd9pHJ7I2Rc%3D"
+                },
+                "meta": {
+                    "source": "localStyles"
+                },
+                "type": "font",
+                "originId": "MuseoSans-700",
+                "sourceId": "29e5b080-7f79-47f1-af1c-e07412ff0f6f",
+                "repositoryId": "47de96c3-1228-40a0-9b28-9d9d90e39c31"
+            },
+            "fontSize": {
+                "value": {
+                    "unit": "px",
+                    "measure": 12
+                }
+            },
+            "textAlign": {
+                "vertical": "top",
+                "horizontal": "left"
+            },
+            "lineHeight": {
+                "value": {
+                    "unit": "px",
+                    "measure": 20
+                }
+            },
+            "letterSpacing": {
+                "value": {
+                    "unit": "px",
+                    "measure": 0.4000000059604645
+                }
+            }
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "textStyle",
+        "originId": "5:123",
+        "sourceId": "29e5b080-7f79-47f1-af1c-e07412ff0f6f",
+        "repositoryId": "47de96c3-1228-40a0-9b28-9d9d90e39c31"
+    },
+    {
+        "id": "98819427-4a4e-4ab7-8528-d20436771d43",
+        "createdAt": "2022-06-08T12:51:29.955Z",
+        "updatedAt": "2022-06-08T12:51:29.955Z",
+        "name": "CAPTION - Caption Text",
+        "value": {
+            "font": {
+                "id": "520f67b0-12e7-49b0-a711-10f6a3f04878",
+                "createdAt": "2022-06-08T12:51:29.935Z",
+                "updatedAt": "2022-06-09T10:01:37.953Z",
+                "name": "MuseoSans-500",
+                "value": {
+                    "format": "ttf",
+                    "isItalic": false,
+                    "provider": "Custom font",
+                    "fontFamily": "Museo Sans",
+                    "fontWeight": 500,
+                    "fontFileMissing": false,
+                    "fontPostScriptName": "MuseoSans-500",
+                    "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/47de96c3-1228-40a0-9b28-9d9d90e39c31/font/MuseoSans-500/MuseoSans-500.ttf?AWSAccessKeyId=ASIAYLKZPEWOPZFUH6TJ&Expires=1654786809&Signature=ze4eUgej2fhnVCSwNVmGOp2T1vw%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEA4aCWV1LXdlc3QtMSJGMEQCIDFpxoWBKeIWruNavAW08KHRnUAn7dExQqsKQMKZ9SnjAiAiVz4TJHngc0ieY%2FDSmVWBund7clAYEiUwkCz7VUiTtirvAwgWEAMaDDU3NDEwMjY0NDEyNCIMdJ6f6d7bkniY1ut1KswDXEbBNR7UTbaauvG75jcgNqAY1Zb9QhdQtlgRgBzy97hNa2DiOBaSrbIr4upuKAlHn%2BIfnS3k60N2kXxCBXNJmnCPd25rRODBibf%2FVtKhDkEmf5PxB91mx8mTuVitSPQWNyM9BsSVQ0%2FO%2F4JIVOhCSO9O%2FPcsegGVzJsqiSwdnvCikZJrEHV5%2F97T1Hgi8qkOJFdaNOiXbYSVBaTPcWWANDqoKmrJmKMtkEvx%2FapdlM0xkwXvLpcv%2BVXvQV4ZdK2KrYESierMHBUaOCL5ZS5SWailfgWJfqlFTNnSwEimvbt0%2Bebimk7aCQryWho5gPjb%2FTb%2FQ%2FWevOdYPmgscj2OMqsV37%2BqUAd85nteTof2TqHIfEvAjf68Dh7W63IU0xBMXBd03fB%2BI%2Bs6rMaXc1kqLgZXXthYDXoEbkthuV21%2BsBUR9timbYyDASB1lYsITeI66dlaFUmsYYVNe6NFK8tjA88o9A2b2M4Ound%2Bm2nlfnQQoD%2BqtTkJLjo14DU%2FWTRKRSD50GYHOXvOMxScl3bHi%2FsZqK6%2BXCIqEVVZKFUXHi%2FotQ2F6aElQZrrRohn6AqY%2B5gWG3fW5xHZivv2YlH77WT9A06kEJ%2FwlhBNjCa54eVBjqmAV1nguFp%2FS3o9v%2Bl%2FGLW3Jvg%2FZe%2FfeeeI%2BZsxg25rvYVPQJ%2F6OqB%2FxF6gpX78dj%2BYCkLRTXC7CYwMZNyo2s2%2Bbj4n63u6okezWeZqi0%2F9hLkV5BFzrSeVFZGEpQ0LqcIEwr4g3supkHG4fVGcvbrZsyMqXz4iSYJtpKNwllTvFPtIEnWRcxa9bZ%2FIpDp8M0A%2FTZOrb%2FyvmZDE55osP4bzd9pHJ7I2Rc%3D"
+                },
+                "meta": {
+                    "source": "localStyles"
+                },
+                "type": "font",
+                "originId": "MuseoSans-500",
+                "sourceId": "29e5b080-7f79-47f1-af1c-e07412ff0f6f",
+                "repositoryId": "47de96c3-1228-40a0-9b28-9d9d90e39c31"
+            },
+            "fontSize": {
+                "value": {
+                    "unit": "px",
+                    "measure": 12
+                }
+            },
+            "textAlign": {
+                "vertical": "top",
+                "horizontal": "left"
+            },
+            "lineHeight": {
+                "value": {
+                    "unit": "px",
+                    "measure": 20
+                }
+            },
+            "letterSpacing": {
+                "value": {
+                    "unit": "px",
+                    "measure": 0.4000000059604645
+                }
+            }
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "textStyle",
+        "originId": "5:122",
+        "sourceId": "29e5b080-7f79-47f1-af1c-e07412ff0f6f",
+        "repositoryId": "47de96c3-1228-40a0-9b28-9d9d90e39c31"
+    },
+    {
+        "id": "ec7ac7cf-cca2-401a-ad5d-e9eb67923fff",
+        "createdAt": "2022-06-08T11:20:37.696Z",
+        "updatedAt": "2022-06-08T11:20:37.696Z",
+        "name": "GREY 1",
+        "value": {
+            "a": 1,
+            "b": 151,
+            "g": 151,
+            "r": 151
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "2:15",
+        "sourceId": "1a78d8ff-fe10-42ef-8eff-d1015f6c9bb9",
+        "repositoryId": "47de96c3-1228-40a0-9b28-9d9d90e39c31"
+    },
+    {
+        "id": "ad262eea-5507-45be-b115-2065fe1baf84",
+        "createdAt": "2022-06-08T11:20:37.681Z",
+        "updatedAt": "2022-06-08T11:20:37.681Z",
+        "name": "GREY 2",
+        "value": {
+            "a": 1,
+            "b": 225,
+            "g": 225,
+            "r": 225
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "63:49",
+        "sourceId": "1a78d8ff-fe10-42ef-8eff-d1015f6c9bb9",
+        "repositoryId": "47de96c3-1228-40a0-9b28-9d9d90e39c31"
+    },
+    {
+        "id": "3f7282b4-96eb-4ecc-b508-65f702b55f30",
+        "createdAt": "2022-06-08T12:51:29.953Z",
+        "updatedAt": "2022-06-08T12:51:29.953Z",
+        "name": "H1 - Header 1",
+        "value": {
+            "font": {
+                "id": "cc9bab38-012a-447f-84a9-4443cdd58ead",
+                "createdAt": "2022-06-08T12:51:29.941Z",
+                "updatedAt": "2022-06-09T10:01:37.963Z",
+                "name": "MuseoSansRounded-700",
+                "value": {
+                    "format": "ttf",
+                    "isItalic": false,
+                    "provider": "Custom font",
+                    "fontFamily": "Museo Sans Rounded",
+                    "fontWeight": 700,
+                    "fontFileMissing": false,
+                    "fontPostScriptName": "MuseoSansRounded-700",
+                    "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/47de96c3-1228-40a0-9b28-9d9d90e39c31/font/MuseoSansRounded-700/MuseoSansRounded-700.ttf?AWSAccessKeyId=ASIAYLKZPEWOPZFUH6TJ&Expires=1654786809&Signature=iNfwRFrpmR8hkho%2BXjE3a5QXWRU%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEA4aCWV1LXdlc3QtMSJGMEQCIDFpxoWBKeIWruNavAW08KHRnUAn7dExQqsKQMKZ9SnjAiAiVz4TJHngc0ieY%2FDSmVWBund7clAYEiUwkCz7VUiTtirvAwgWEAMaDDU3NDEwMjY0NDEyNCIMdJ6f6d7bkniY1ut1KswDXEbBNR7UTbaauvG75jcgNqAY1Zb9QhdQtlgRgBzy97hNa2DiOBaSrbIr4upuKAlHn%2BIfnS3k60N2kXxCBXNJmnCPd25rRODBibf%2FVtKhDkEmf5PxB91mx8mTuVitSPQWNyM9BsSVQ0%2FO%2F4JIVOhCSO9O%2FPcsegGVzJsqiSwdnvCikZJrEHV5%2F97T1Hgi8qkOJFdaNOiXbYSVBaTPcWWANDqoKmrJmKMtkEvx%2FapdlM0xkwXvLpcv%2BVXvQV4ZdK2KrYESierMHBUaOCL5ZS5SWailfgWJfqlFTNnSwEimvbt0%2Bebimk7aCQryWho5gPjb%2FTb%2FQ%2FWevOdYPmgscj2OMqsV37%2BqUAd85nteTof2TqHIfEvAjf68Dh7W63IU0xBMXBd03fB%2BI%2Bs6rMaXc1kqLgZXXthYDXoEbkthuV21%2BsBUR9timbYyDASB1lYsITeI66dlaFUmsYYVNe6NFK8tjA88o9A2b2M4Ound%2Bm2nlfnQQoD%2BqtTkJLjo14DU%2FWTRKRSD50GYHOXvOMxScl3bHi%2FsZqK6%2BXCIqEVVZKFUXHi%2FotQ2F6aElQZrrRohn6AqY%2B5gWG3fW5xHZivv2YlH77WT9A06kEJ%2FwlhBNjCa54eVBjqmAV1nguFp%2FS3o9v%2Bl%2FGLW3Jvg%2FZe%2FfeeeI%2BZsxg25rvYVPQJ%2F6OqB%2FxF6gpX78dj%2BYCkLRTXC7CYwMZNyo2s2%2Bbj4n63u6okezWeZqi0%2F9hLkV5BFzrSeVFZGEpQ0LqcIEwr4g3supkHG4fVGcvbrZsyMqXz4iSYJtpKNwllTvFPtIEnWRcxa9bZ%2FIpDp8M0A%2FTZOrb%2FyvmZDE55osP4bzd9pHJ7I2Rc%3D"
+                },
+                "meta": {
+                    "source": "localStyles"
+                },
+                "type": "font",
+                "originId": "MuseoSansRounded-700",
+                "sourceId": "29e5b080-7f79-47f1-af1c-e07412ff0f6f",
+                "repositoryId": "47de96c3-1228-40a0-9b28-9d9d90e39c31"
+            },
+            "fontSize": {
+                "value": {
+                    "unit": "px",
+                    "measure": 28
+                }
+            },
+            "textAlign": {
+                "vertical": "top",
+                "horizontal": "left"
+            },
+            "lineHeight": {
+                "value": {
+                    "unit": "px",
+                    "measure": 36
+                }
+            }
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "textStyle",
+        "originId": "5:108",
+        "sourceId": "29e5b080-7f79-47f1-af1c-e07412ff0f6f",
+        "repositoryId": "47de96c3-1228-40a0-9b28-9d9d90e39c31"
+    },
+    {
+        "id": "3462ea3d-436d-4f53-8e63-9bbd57fdbfcd",
+        "createdAt": "2022-06-08T12:51:29.940Z",
+        "updatedAt": "2022-06-08T12:51:29.940Z",
+        "name": "H2 - Header 2",
+        "value": {
+            "font": {
+                "id": "cc9bab38-012a-447f-84a9-4443cdd58ead",
+                "createdAt": "2022-06-08T12:51:29.941Z",
+                "updatedAt": "2022-06-09T10:01:37.963Z",
+                "name": "MuseoSansRounded-700",
+                "value": {
+                    "format": "ttf",
+                    "isItalic": false,
+                    "provider": "Custom font",
+                    "fontFamily": "Museo Sans Rounded",
+                    "fontWeight": 700,
+                    "fontFileMissing": false,
+                    "fontPostScriptName": "MuseoSansRounded-700",
+                    "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/47de96c3-1228-40a0-9b28-9d9d90e39c31/font/MuseoSansRounded-700/MuseoSansRounded-700.ttf?AWSAccessKeyId=ASIAYLKZPEWOPZFUH6TJ&Expires=1654786809&Signature=iNfwRFrpmR8hkho%2BXjE3a5QXWRU%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEA4aCWV1LXdlc3QtMSJGMEQCIDFpxoWBKeIWruNavAW08KHRnUAn7dExQqsKQMKZ9SnjAiAiVz4TJHngc0ieY%2FDSmVWBund7clAYEiUwkCz7VUiTtirvAwgWEAMaDDU3NDEwMjY0NDEyNCIMdJ6f6d7bkniY1ut1KswDXEbBNR7UTbaauvG75jcgNqAY1Zb9QhdQtlgRgBzy97hNa2DiOBaSrbIr4upuKAlHn%2BIfnS3k60N2kXxCBXNJmnCPd25rRODBibf%2FVtKhDkEmf5PxB91mx8mTuVitSPQWNyM9BsSVQ0%2FO%2F4JIVOhCSO9O%2FPcsegGVzJsqiSwdnvCikZJrEHV5%2F97T1Hgi8qkOJFdaNOiXbYSVBaTPcWWANDqoKmrJmKMtkEvx%2FapdlM0xkwXvLpcv%2BVXvQV4ZdK2KrYESierMHBUaOCL5ZS5SWailfgWJfqlFTNnSwEimvbt0%2Bebimk7aCQryWho5gPjb%2FTb%2FQ%2FWevOdYPmgscj2OMqsV37%2BqUAd85nteTof2TqHIfEvAjf68Dh7W63IU0xBMXBd03fB%2BI%2Bs6rMaXc1kqLgZXXthYDXoEbkthuV21%2BsBUR9timbYyDASB1lYsITeI66dlaFUmsYYVNe6NFK8tjA88o9A2b2M4Ound%2Bm2nlfnQQoD%2BqtTkJLjo14DU%2FWTRKRSD50GYHOXvOMxScl3bHi%2FsZqK6%2BXCIqEVVZKFUXHi%2FotQ2F6aElQZrrRohn6AqY%2B5gWG3fW5xHZivv2YlH77WT9A06kEJ%2FwlhBNjCa54eVBjqmAV1nguFp%2FS3o9v%2Bl%2FGLW3Jvg%2FZe%2FfeeeI%2BZsxg25rvYVPQJ%2F6OqB%2FxF6gpX78dj%2BYCkLRTXC7CYwMZNyo2s2%2Bbj4n63u6okezWeZqi0%2F9hLkV5BFzrSeVFZGEpQ0LqcIEwr4g3supkHG4fVGcvbrZsyMqXz4iSYJtpKNwllTvFPtIEnWRcxa9bZ%2FIpDp8M0A%2FTZOrb%2FyvmZDE55osP4bzd9pHJ7I2Rc%3D"
+                },
+                "meta": {
+                    "source": "localStyles"
+                },
+                "type": "font",
+                "originId": "MuseoSansRounded-700",
+                "sourceId": "29e5b080-7f79-47f1-af1c-e07412ff0f6f",
+                "repositoryId": "47de96c3-1228-40a0-9b28-9d9d90e39c31"
+            },
+            "fontSize": {
+                "value": {
+                    "unit": "px",
+                    "measure": 20
+                }
+            },
+            "textAlign": {
+                "vertical": "top",
+                "horizontal": "left"
+            },
+            "lineHeight": {
+                "value": {
+                    "unit": "px",
+                    "measure": 24
+                }
+            }
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "textStyle",
+        "originId": "5:109",
+        "sourceId": "29e5b080-7f79-47f1-af1c-e07412ff0f6f",
+        "repositoryId": "47de96c3-1228-40a0-9b28-9d9d90e39c31"
+    },
+    {
+        "id": "c7d926bc-8846-42b6-917a-c94da6b6f9ec",
+        "createdAt": "2022-06-08T12:51:29.944Z",
+        "updatedAt": "2022-06-08T12:51:29.944Z",
+        "name": "LABEL - Body Text 3",
+        "value": {
+            "font": {
+                "id": "f538634a-04a9-4b67-87c9-764f626e8084",
+                "createdAt": "2022-06-08T12:51:29.941Z",
+                "updatedAt": "2022-06-09T10:01:37.953Z",
+                "name": "MuseoSans-300",
+                "value": {
+                    "format": "ttf",
+                    "isItalic": false,
+                    "provider": "Custom font",
+                    "fontFamily": "Museo Sans",
+                    "fontWeight": 300,
+                    "fontFileMissing": false,
+                    "fontPostScriptName": "MuseoSans-300",
+                    "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/47de96c3-1228-40a0-9b28-9d9d90e39c31/font/MuseoSans-300/MuseoSans-300.ttf?AWSAccessKeyId=ASIAYLKZPEWOPZFUH6TJ&Expires=1654786809&Signature=%2F8LRsEUBCXBSErwRl9YkI3hO3iw%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEA4aCWV1LXdlc3QtMSJGMEQCIDFpxoWBKeIWruNavAW08KHRnUAn7dExQqsKQMKZ9SnjAiAiVz4TJHngc0ieY%2FDSmVWBund7clAYEiUwkCz7VUiTtirvAwgWEAMaDDU3NDEwMjY0NDEyNCIMdJ6f6d7bkniY1ut1KswDXEbBNR7UTbaauvG75jcgNqAY1Zb9QhdQtlgRgBzy97hNa2DiOBaSrbIr4upuKAlHn%2BIfnS3k60N2kXxCBXNJmnCPd25rRODBibf%2FVtKhDkEmf5PxB91mx8mTuVitSPQWNyM9BsSVQ0%2FO%2F4JIVOhCSO9O%2FPcsegGVzJsqiSwdnvCikZJrEHV5%2F97T1Hgi8qkOJFdaNOiXbYSVBaTPcWWANDqoKmrJmKMtkEvx%2FapdlM0xkwXvLpcv%2BVXvQV4ZdK2KrYESierMHBUaOCL5ZS5SWailfgWJfqlFTNnSwEimvbt0%2Bebimk7aCQryWho5gPjb%2FTb%2FQ%2FWevOdYPmgscj2OMqsV37%2BqUAd85nteTof2TqHIfEvAjf68Dh7W63IU0xBMXBd03fB%2BI%2Bs6rMaXc1kqLgZXXthYDXoEbkthuV21%2BsBUR9timbYyDASB1lYsITeI66dlaFUmsYYVNe6NFK8tjA88o9A2b2M4Ound%2Bm2nlfnQQoD%2BqtTkJLjo14DU%2FWTRKRSD50GYHOXvOMxScl3bHi%2FsZqK6%2BXCIqEVVZKFUXHi%2FotQ2F6aElQZrrRohn6AqY%2B5gWG3fW5xHZivv2YlH77WT9A06kEJ%2FwlhBNjCa54eVBjqmAV1nguFp%2FS3o9v%2Bl%2FGLW3Jvg%2FZe%2FfeeeI%2BZsxg25rvYVPQJ%2F6OqB%2FxF6gpX78dj%2BYCkLRTXC7CYwMZNyo2s2%2Bbj4n63u6okezWeZqi0%2F9hLkV5BFzrSeVFZGEpQ0LqcIEwr4g3supkHG4fVGcvbrZsyMqXz4iSYJtpKNwllTvFPtIEnWRcxa9bZ%2FIpDp8M0A%2FTZOrb%2FyvmZDE55osP4bzd9pHJ7I2Rc%3D"
+                },
+                "meta": {
+                    "source": "localStyles"
+                },
+                "type": "font",
+                "originId": "MuseoSans-300",
+                "sourceId": "29e5b080-7f79-47f1-af1c-e07412ff0f6f",
+                "repositoryId": "47de96c3-1228-40a0-9b28-9d9d90e39c31"
+            },
+            "fontSize": {
+                "value": {
+                    "unit": "px",
+                    "measure": 14
+                }
+            },
+            "textAlign": {
+                "vertical": "top",
+                "horizontal": "left"
+            },
+            "lineHeight": {
+                "value": {
+                    "unit": "px",
+                    "measure": 17
+                }
+            },
+            "letterSpacing": {
+                "value": {
+                    "unit": "px",
+                    "measure": -0.20000000298023224
+                }
+            }
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "textStyle",
+        "originId": "71:107",
+        "sourceId": "29e5b080-7f79-47f1-af1c-e07412ff0f6f",
+        "repositoryId": "47de96c3-1228-40a0-9b28-9d9d90e39c31"
+    },
+    {
+        "id": "f538634a-04a9-4b67-87c9-764f626e8084",
+        "createdAt": "2022-06-08T12:51:29.941Z",
+        "updatedAt": "2022-06-09T10:01:37.953Z",
+        "name": "MuseoSans-300",
+        "value": {
+            "format": "ttf",
+            "isItalic": false,
+            "provider": "Custom font",
+            "fontFamily": "Museo Sans",
+            "fontWeight": 300,
+            "fontFileMissing": false,
+            "fontPostScriptName": "MuseoSans-300",
+            "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/47de96c3-1228-40a0-9b28-9d9d90e39c31/font/MuseoSans-300/MuseoSans-300.ttf?AWSAccessKeyId=ASIAYLKZPEWOPZFUH6TJ&Expires=1654786809&Signature=%2F8LRsEUBCXBSErwRl9YkI3hO3iw%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEA4aCWV1LXdlc3QtMSJGMEQCIDFpxoWBKeIWruNavAW08KHRnUAn7dExQqsKQMKZ9SnjAiAiVz4TJHngc0ieY%2FDSmVWBund7clAYEiUwkCz7VUiTtirvAwgWEAMaDDU3NDEwMjY0NDEyNCIMdJ6f6d7bkniY1ut1KswDXEbBNR7UTbaauvG75jcgNqAY1Zb9QhdQtlgRgBzy97hNa2DiOBaSrbIr4upuKAlHn%2BIfnS3k60N2kXxCBXNJmnCPd25rRODBibf%2FVtKhDkEmf5PxB91mx8mTuVitSPQWNyM9BsSVQ0%2FO%2F4JIVOhCSO9O%2FPcsegGVzJsqiSwdnvCikZJrEHV5%2F97T1Hgi8qkOJFdaNOiXbYSVBaTPcWWANDqoKmrJmKMtkEvx%2FapdlM0xkwXvLpcv%2BVXvQV4ZdK2KrYESierMHBUaOCL5ZS5SWailfgWJfqlFTNnSwEimvbt0%2Bebimk7aCQryWho5gPjb%2FTb%2FQ%2FWevOdYPmgscj2OMqsV37%2BqUAd85nteTof2TqHIfEvAjf68Dh7W63IU0xBMXBd03fB%2BI%2Bs6rMaXc1kqLgZXXthYDXoEbkthuV21%2BsBUR9timbYyDASB1lYsITeI66dlaFUmsYYVNe6NFK8tjA88o9A2b2M4Ound%2Bm2nlfnQQoD%2BqtTkJLjo14DU%2FWTRKRSD50GYHOXvOMxScl3bHi%2FsZqK6%2BXCIqEVVZKFUXHi%2FotQ2F6aElQZrrRohn6AqY%2B5gWG3fW5xHZivv2YlH77WT9A06kEJ%2FwlhBNjCa54eVBjqmAV1nguFp%2FS3o9v%2Bl%2FGLW3Jvg%2FZe%2FfeeeI%2BZsxg25rvYVPQJ%2F6OqB%2FxF6gpX78dj%2BYCkLRTXC7CYwMZNyo2s2%2Bbj4n63u6okezWeZqi0%2F9hLkV5BFzrSeVFZGEpQ0LqcIEwr4g3supkHG4fVGcvbrZsyMqXz4iSYJtpKNwllTvFPtIEnWRcxa9bZ%2FIpDp8M0A%2FTZOrb%2FyvmZDE55osP4bzd9pHJ7I2Rc%3D"
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "font",
+        "originId": "MuseoSans-300",
+        "sourceId": "29e5b080-7f79-47f1-af1c-e07412ff0f6f",
+        "repositoryId": "47de96c3-1228-40a0-9b28-9d9d90e39c31"
+    },
+    {
+        "id": "520f67b0-12e7-49b0-a711-10f6a3f04878",
+        "createdAt": "2022-06-08T12:51:29.935Z",
+        "updatedAt": "2022-06-09T10:01:37.953Z",
+        "name": "MuseoSans-500",
+        "value": {
+            "format": "ttf",
+            "isItalic": false,
+            "provider": "Custom font",
+            "fontFamily": "Museo Sans",
+            "fontWeight": 500,
+            "fontFileMissing": false,
+            "fontPostScriptName": "MuseoSans-500",
+            "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/47de96c3-1228-40a0-9b28-9d9d90e39c31/font/MuseoSans-500/MuseoSans-500.ttf?AWSAccessKeyId=ASIAYLKZPEWOPZFUH6TJ&Expires=1654786809&Signature=ze4eUgej2fhnVCSwNVmGOp2T1vw%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEA4aCWV1LXdlc3QtMSJGMEQCIDFpxoWBKeIWruNavAW08KHRnUAn7dExQqsKQMKZ9SnjAiAiVz4TJHngc0ieY%2FDSmVWBund7clAYEiUwkCz7VUiTtirvAwgWEAMaDDU3NDEwMjY0NDEyNCIMdJ6f6d7bkniY1ut1KswDXEbBNR7UTbaauvG75jcgNqAY1Zb9QhdQtlgRgBzy97hNa2DiOBaSrbIr4upuKAlHn%2BIfnS3k60N2kXxCBXNJmnCPd25rRODBibf%2FVtKhDkEmf5PxB91mx8mTuVitSPQWNyM9BsSVQ0%2FO%2F4JIVOhCSO9O%2FPcsegGVzJsqiSwdnvCikZJrEHV5%2F97T1Hgi8qkOJFdaNOiXbYSVBaTPcWWANDqoKmrJmKMtkEvx%2FapdlM0xkwXvLpcv%2BVXvQV4ZdK2KrYESierMHBUaOCL5ZS5SWailfgWJfqlFTNnSwEimvbt0%2Bebimk7aCQryWho5gPjb%2FTb%2FQ%2FWevOdYPmgscj2OMqsV37%2BqUAd85nteTof2TqHIfEvAjf68Dh7W63IU0xBMXBd03fB%2BI%2Bs6rMaXc1kqLgZXXthYDXoEbkthuV21%2BsBUR9timbYyDASB1lYsITeI66dlaFUmsYYVNe6NFK8tjA88o9A2b2M4Ound%2Bm2nlfnQQoD%2BqtTkJLjo14DU%2FWTRKRSD50GYHOXvOMxScl3bHi%2FsZqK6%2BXCIqEVVZKFUXHi%2FotQ2F6aElQZrrRohn6AqY%2B5gWG3fW5xHZivv2YlH77WT9A06kEJ%2FwlhBNjCa54eVBjqmAV1nguFp%2FS3o9v%2Bl%2FGLW3Jvg%2FZe%2FfeeeI%2BZsxg25rvYVPQJ%2F6OqB%2FxF6gpX78dj%2BYCkLRTXC7CYwMZNyo2s2%2Bbj4n63u6okezWeZqi0%2F9hLkV5BFzrSeVFZGEpQ0LqcIEwr4g3supkHG4fVGcvbrZsyMqXz4iSYJtpKNwllTvFPtIEnWRcxa9bZ%2FIpDp8M0A%2FTZOrb%2FyvmZDE55osP4bzd9pHJ7I2Rc%3D"
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "font",
+        "originId": "MuseoSans-500",
+        "sourceId": "29e5b080-7f79-47f1-af1c-e07412ff0f6f",
+        "repositoryId": "47de96c3-1228-40a0-9b28-9d9d90e39c31"
+    },
+    {
+        "id": "84daa535-b781-4611-b40b-4ee1319ee241",
+        "createdAt": "2022-06-08T12:51:29.924Z",
+        "updatedAt": "2022-06-09T10:01:37.953Z",
+        "name": "MuseoSans-700",
+        "value": {
+            "format": "ttf",
+            "isItalic": false,
+            "provider": "Custom font",
+            "fontFamily": "Museo Sans",
+            "fontWeight": 700,
+            "fontFileMissing": false,
+            "fontPostScriptName": "MuseoSans-700",
+            "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/47de96c3-1228-40a0-9b28-9d9d90e39c31/font/MuseoSans-700/MuseoSans-700.ttf?AWSAccessKeyId=ASIAYLKZPEWOPZFUH6TJ&Expires=1654786809&Signature=8wtjabBkSiQHRioMSJs%2BjjKeYsg%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEA4aCWV1LXdlc3QtMSJGMEQCIDFpxoWBKeIWruNavAW08KHRnUAn7dExQqsKQMKZ9SnjAiAiVz4TJHngc0ieY%2FDSmVWBund7clAYEiUwkCz7VUiTtirvAwgWEAMaDDU3NDEwMjY0NDEyNCIMdJ6f6d7bkniY1ut1KswDXEbBNR7UTbaauvG75jcgNqAY1Zb9QhdQtlgRgBzy97hNa2DiOBaSrbIr4upuKAlHn%2BIfnS3k60N2kXxCBXNJmnCPd25rRODBibf%2FVtKhDkEmf5PxB91mx8mTuVitSPQWNyM9BsSVQ0%2FO%2F4JIVOhCSO9O%2FPcsegGVzJsqiSwdnvCikZJrEHV5%2F97T1Hgi8qkOJFdaNOiXbYSVBaTPcWWANDqoKmrJmKMtkEvx%2FapdlM0xkwXvLpcv%2BVXvQV4ZdK2KrYESierMHBUaOCL5ZS5SWailfgWJfqlFTNnSwEimvbt0%2Bebimk7aCQryWho5gPjb%2FTb%2FQ%2FWevOdYPmgscj2OMqsV37%2BqUAd85nteTof2TqHIfEvAjf68Dh7W63IU0xBMXBd03fB%2BI%2Bs6rMaXc1kqLgZXXthYDXoEbkthuV21%2BsBUR9timbYyDASB1lYsITeI66dlaFUmsYYVNe6NFK8tjA88o9A2b2M4Ound%2Bm2nlfnQQoD%2BqtTkJLjo14DU%2FWTRKRSD50GYHOXvOMxScl3bHi%2FsZqK6%2BXCIqEVVZKFUXHi%2FotQ2F6aElQZrrRohn6AqY%2B5gWG3fW5xHZivv2YlH77WT9A06kEJ%2FwlhBNjCa54eVBjqmAV1nguFp%2FS3o9v%2Bl%2FGLW3Jvg%2FZe%2FfeeeI%2BZsxg25rvYVPQJ%2F6OqB%2FxF6gpX78dj%2BYCkLRTXC7CYwMZNyo2s2%2Bbj4n63u6okezWeZqi0%2F9hLkV5BFzrSeVFZGEpQ0LqcIEwr4g3supkHG4fVGcvbrZsyMqXz4iSYJtpKNwllTvFPtIEnWRcxa9bZ%2FIpDp8M0A%2FTZOrb%2FyvmZDE55osP4bzd9pHJ7I2Rc%3D"
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "font",
+        "originId": "MuseoSans-700",
+        "sourceId": "29e5b080-7f79-47f1-af1c-e07412ff0f6f",
+        "repositoryId": "47de96c3-1228-40a0-9b28-9d9d90e39c31"
+    },
+    {
+        "id": "cc9bab38-012a-447f-84a9-4443cdd58ead",
+        "createdAt": "2022-06-08T12:51:29.941Z",
+        "updatedAt": "2022-06-09T10:01:37.963Z",
+        "name": "MuseoSansRounded-700",
+        "value": {
+            "format": "ttf",
+            "isItalic": false,
+            "provider": "Custom font",
+            "fontFamily": "Museo Sans Rounded",
+            "fontWeight": 700,
+            "fontFileMissing": false,
+            "fontPostScriptName": "MuseoSansRounded-700",
+            "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/47de96c3-1228-40a0-9b28-9d9d90e39c31/font/MuseoSansRounded-700/MuseoSansRounded-700.ttf?AWSAccessKeyId=ASIAYLKZPEWOPZFUH6TJ&Expires=1654786809&Signature=iNfwRFrpmR8hkho%2BXjE3a5QXWRU%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEA4aCWV1LXdlc3QtMSJGMEQCIDFpxoWBKeIWruNavAW08KHRnUAn7dExQqsKQMKZ9SnjAiAiVz4TJHngc0ieY%2FDSmVWBund7clAYEiUwkCz7VUiTtirvAwgWEAMaDDU3NDEwMjY0NDEyNCIMdJ6f6d7bkniY1ut1KswDXEbBNR7UTbaauvG75jcgNqAY1Zb9QhdQtlgRgBzy97hNa2DiOBaSrbIr4upuKAlHn%2BIfnS3k60N2kXxCBXNJmnCPd25rRODBibf%2FVtKhDkEmf5PxB91mx8mTuVitSPQWNyM9BsSVQ0%2FO%2F4JIVOhCSO9O%2FPcsegGVzJsqiSwdnvCikZJrEHV5%2F97T1Hgi8qkOJFdaNOiXbYSVBaTPcWWANDqoKmrJmKMtkEvx%2FapdlM0xkwXvLpcv%2BVXvQV4ZdK2KrYESierMHBUaOCL5ZS5SWailfgWJfqlFTNnSwEimvbt0%2Bebimk7aCQryWho5gPjb%2FTb%2FQ%2FWevOdYPmgscj2OMqsV37%2BqUAd85nteTof2TqHIfEvAjf68Dh7W63IU0xBMXBd03fB%2BI%2Bs6rMaXc1kqLgZXXthYDXoEbkthuV21%2BsBUR9timbYyDASB1lYsITeI66dlaFUmsYYVNe6NFK8tjA88o9A2b2M4Ound%2Bm2nlfnQQoD%2BqtTkJLjo14DU%2FWTRKRSD50GYHOXvOMxScl3bHi%2FsZqK6%2BXCIqEVVZKFUXHi%2FotQ2F6aElQZrrRohn6AqY%2B5gWG3fW5xHZivv2YlH77WT9A06kEJ%2FwlhBNjCa54eVBjqmAV1nguFp%2FS3o9v%2Bl%2FGLW3Jvg%2FZe%2FfeeeI%2BZsxg25rvYVPQJ%2F6OqB%2FxF6gpX78dj%2BYCkLRTXC7CYwMZNyo2s2%2Bbj4n63u6okezWeZqi0%2F9hLkV5BFzrSeVFZGEpQ0LqcIEwr4g3supkHG4fVGcvbrZsyMqXz4iSYJtpKNwllTvFPtIEnWRcxa9bZ%2FIpDp8M0A%2FTZOrb%2FyvmZDE55osP4bzd9pHJ7I2Rc%3D"
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "font",
+        "originId": "MuseoSansRounded-700",
+        "sourceId": "29e5b080-7f79-47f1-af1c-e07412ff0f6f",
+        "repositoryId": "47de96c3-1228-40a0-9b28-9d9d90e39c31"
+    },
+    {
+        "id": "31c4743a-b2f5-428c-a56d-40a6b2f58630",
+        "createdAt": "2022-06-08T11:20:37.697Z",
+        "updatedAt": "2022-06-08T11:20:37.697Z",
+        "name": "PRIMARY/100",
+        "value": {
+            "a": 1,
+            "b": 244,
+            "g": 235,
+            "r": 252
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "5:139",
+        "sourceId": "1a78d8ff-fe10-42ef-8eff-d1015f6c9bb9",
+        "repositoryId": "47de96c3-1228-40a0-9b28-9d9d90e39c31"
+    },
+    {
+        "id": "85af5921-3f67-4d4f-8306-3629a6b97cf4",
+        "createdAt": "2022-06-08T11:20:37.716Z",
+        "updatedAt": "2022-06-08T11:20:37.716Z",
+        "name": "PRIMARY/900",
+        "value": {
+            "a": 1,
+            "b": 144,
+            "g": 51,
+            "r": 227
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "2:11",
+        "sourceId": "1a78d8ff-fe10-42ef-8eff-d1015f6c9bb9",
+        "repositoryId": "47de96c3-1228-40a0-9b28-9d9d90e39c31"
+    },
+    {
+        "id": "66af1740-bbb1-4e30-b6d2-c525c8574df9",
+        "createdAt": "2022-06-08T12:51:29.955Z",
+        "updatedAt": "2022-06-08T12:51:29.955Z",
+        "name": "S1 - Sub Title 1",
+        "value": {
+            "font": {
+                "id": "84daa535-b781-4611-b40b-4ee1319ee241",
+                "createdAt": "2022-06-08T12:51:29.924Z",
+                "updatedAt": "2022-06-09T10:01:37.953Z",
+                "name": "MuseoSans-700",
+                "value": {
+                    "format": "ttf",
+                    "isItalic": false,
+                    "provider": "Custom font",
+                    "fontFamily": "Museo Sans",
+                    "fontWeight": 700,
+                    "fontFileMissing": false,
+                    "fontPostScriptName": "MuseoSans-700",
+                    "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/47de96c3-1228-40a0-9b28-9d9d90e39c31/font/MuseoSans-700/MuseoSans-700.ttf?AWSAccessKeyId=ASIAYLKZPEWOPZFUH6TJ&Expires=1654786809&Signature=8wtjabBkSiQHRioMSJs%2BjjKeYsg%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEA4aCWV1LXdlc3QtMSJGMEQCIDFpxoWBKeIWruNavAW08KHRnUAn7dExQqsKQMKZ9SnjAiAiVz4TJHngc0ieY%2FDSmVWBund7clAYEiUwkCz7VUiTtirvAwgWEAMaDDU3NDEwMjY0NDEyNCIMdJ6f6d7bkniY1ut1KswDXEbBNR7UTbaauvG75jcgNqAY1Zb9QhdQtlgRgBzy97hNa2DiOBaSrbIr4upuKAlHn%2BIfnS3k60N2kXxCBXNJmnCPd25rRODBibf%2FVtKhDkEmf5PxB91mx8mTuVitSPQWNyM9BsSVQ0%2FO%2F4JIVOhCSO9O%2FPcsegGVzJsqiSwdnvCikZJrEHV5%2F97T1Hgi8qkOJFdaNOiXbYSVBaTPcWWANDqoKmrJmKMtkEvx%2FapdlM0xkwXvLpcv%2BVXvQV4ZdK2KrYESierMHBUaOCL5ZS5SWailfgWJfqlFTNnSwEimvbt0%2Bebimk7aCQryWho5gPjb%2FTb%2FQ%2FWevOdYPmgscj2OMqsV37%2BqUAd85nteTof2TqHIfEvAjf68Dh7W63IU0xBMXBd03fB%2BI%2Bs6rMaXc1kqLgZXXthYDXoEbkthuV21%2BsBUR9timbYyDASB1lYsITeI66dlaFUmsYYVNe6NFK8tjA88o9A2b2M4Ound%2Bm2nlfnQQoD%2BqtTkJLjo14DU%2FWTRKRSD50GYHOXvOMxScl3bHi%2FsZqK6%2BXCIqEVVZKFUXHi%2FotQ2F6aElQZrrRohn6AqY%2B5gWG3fW5xHZivv2YlH77WT9A06kEJ%2FwlhBNjCa54eVBjqmAV1nguFp%2FS3o9v%2Bl%2FGLW3Jvg%2FZe%2FfeeeI%2BZsxg25rvYVPQJ%2F6OqB%2FxF6gpX78dj%2BYCkLRTXC7CYwMZNyo2s2%2Bbj4n63u6okezWeZqi0%2F9hLkV5BFzrSeVFZGEpQ0LqcIEwr4g3supkHG4fVGcvbrZsyMqXz4iSYJtpKNwllTvFPtIEnWRcxa9bZ%2FIpDp8M0A%2FTZOrb%2FyvmZDE55osP4bzd9pHJ7I2Rc%3D"
+                },
+                "meta": {
+                    "source": "localStyles"
+                },
+                "type": "font",
+                "originId": "MuseoSans-700",
+                "sourceId": "29e5b080-7f79-47f1-af1c-e07412ff0f6f",
+                "repositoryId": "47de96c3-1228-40a0-9b28-9d9d90e39c31"
+            },
+            "fontSize": {
+                "value": {
+                    "unit": "px",
+                    "measure": 16
+                }
+            },
+            "textAlign": {
+                "vertical": "top",
+                "horizontal": "left"
+            },
+            "lineHeight": {
+                "value": {
+                    "unit": "px",
+                    "measure": 20
+                }
+            },
+            "letterSpacing": {
+                "value": {
+                    "unit": "px",
+                    "measure": 0.009999999776482582
+                }
+            }
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "textStyle",
+        "originId": "5:110",
+        "sourceId": "29e5b080-7f79-47f1-af1c-e07412ff0f6f",
+        "repositoryId": "47de96c3-1228-40a0-9b28-9d9d90e39c31"
+    },
+    {
+        "id": "4402cdaa-f53e-4a69-b344-c6f71f83c693",
+        "createdAt": "2022-06-08T12:51:29.932Z",
+        "updatedAt": "2022-06-08T12:51:29.932Z",
+        "name": "S2 - Subtitle 2",
+        "value": {
+            "font": {
+                "id": "520f67b0-12e7-49b0-a711-10f6a3f04878",
+                "createdAt": "2022-06-08T12:51:29.935Z",
+                "updatedAt": "2022-06-09T10:01:37.953Z",
+                "name": "MuseoSans-500",
+                "value": {
+                    "format": "ttf",
+                    "isItalic": false,
+                    "provider": "Custom font",
+                    "fontFamily": "Museo Sans",
+                    "fontWeight": 500,
+                    "fontFileMissing": false,
+                    "fontPostScriptName": "MuseoSans-500",
+                    "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/47de96c3-1228-40a0-9b28-9d9d90e39c31/font/MuseoSans-500/MuseoSans-500.ttf?AWSAccessKeyId=ASIAYLKZPEWOPZFUH6TJ&Expires=1654786809&Signature=ze4eUgej2fhnVCSwNVmGOp2T1vw%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEA4aCWV1LXdlc3QtMSJGMEQCIDFpxoWBKeIWruNavAW08KHRnUAn7dExQqsKQMKZ9SnjAiAiVz4TJHngc0ieY%2FDSmVWBund7clAYEiUwkCz7VUiTtirvAwgWEAMaDDU3NDEwMjY0NDEyNCIMdJ6f6d7bkniY1ut1KswDXEbBNR7UTbaauvG75jcgNqAY1Zb9QhdQtlgRgBzy97hNa2DiOBaSrbIr4upuKAlHn%2BIfnS3k60N2kXxCBXNJmnCPd25rRODBibf%2FVtKhDkEmf5PxB91mx8mTuVitSPQWNyM9BsSVQ0%2FO%2F4JIVOhCSO9O%2FPcsegGVzJsqiSwdnvCikZJrEHV5%2F97T1Hgi8qkOJFdaNOiXbYSVBaTPcWWANDqoKmrJmKMtkEvx%2FapdlM0xkwXvLpcv%2BVXvQV4ZdK2KrYESierMHBUaOCL5ZS5SWailfgWJfqlFTNnSwEimvbt0%2Bebimk7aCQryWho5gPjb%2FTb%2FQ%2FWevOdYPmgscj2OMqsV37%2BqUAd85nteTof2TqHIfEvAjf68Dh7W63IU0xBMXBd03fB%2BI%2Bs6rMaXc1kqLgZXXthYDXoEbkthuV21%2BsBUR9timbYyDASB1lYsITeI66dlaFUmsYYVNe6NFK8tjA88o9A2b2M4Ound%2Bm2nlfnQQoD%2BqtTkJLjo14DU%2FWTRKRSD50GYHOXvOMxScl3bHi%2FsZqK6%2BXCIqEVVZKFUXHi%2FotQ2F6aElQZrrRohn6AqY%2B5gWG3fW5xHZivv2YlH77WT9A06kEJ%2FwlhBNjCa54eVBjqmAV1nguFp%2FS3o9v%2Bl%2FGLW3Jvg%2FZe%2FfeeeI%2BZsxg25rvYVPQJ%2F6OqB%2FxF6gpX78dj%2BYCkLRTXC7CYwMZNyo2s2%2Bbj4n63u6okezWeZqi0%2F9hLkV5BFzrSeVFZGEpQ0LqcIEwr4g3supkHG4fVGcvbrZsyMqXz4iSYJtpKNwllTvFPtIEnWRcxa9bZ%2FIpDp8M0A%2FTZOrb%2FyvmZDE55osP4bzd9pHJ7I2Rc%3D"
+                },
+                "meta": {
+                    "source": "localStyles"
+                },
+                "type": "font",
+                "originId": "MuseoSans-500",
+                "sourceId": "29e5b080-7f79-47f1-af1c-e07412ff0f6f",
+                "repositoryId": "47de96c3-1228-40a0-9b28-9d9d90e39c31"
+            },
+            "fontSize": {
+                "value": {
+                    "unit": "px",
+                    "measure": 14
+                }
+            },
+            "textAlign": {
+                "vertical": "top",
+                "horizontal": "left"
+            },
+            "lineHeight": {
+                "value": {
+                    "unit": "px",
+                    "measure": 20
+                }
+            }
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "textStyle",
+        "originId": "5:115",
+        "sourceId": "29e5b080-7f79-47f1-af1c-e07412ff0f6f",
+        "repositoryId": "47de96c3-1228-40a0-9b28-9d9d90e39c31"
+    },
+    {
+        "id": "332a6e46-845e-4c77-8a3d-97b046dfb771",
+        "createdAt": "2022-06-08T12:51:29.924Z",
+        "updatedAt": "2022-06-08T12:51:29.924Z",
+        "name": "S2 - Sub Title 2",
+        "value": {
+            "font": {
+                "id": "84daa535-b781-4611-b40b-4ee1319ee241",
+                "createdAt": "2022-06-08T12:51:29.924Z",
+                "updatedAt": "2022-06-09T10:01:37.953Z",
+                "name": "MuseoSans-700",
+                "value": {
+                    "format": "ttf",
+                    "isItalic": false,
+                    "provider": "Custom font",
+                    "fontFamily": "Museo Sans",
+                    "fontWeight": 700,
+                    "fontFileMissing": false,
+                    "fontPostScriptName": "MuseoSans-700",
+                    "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/47de96c3-1228-40a0-9b28-9d9d90e39c31/font/MuseoSans-700/MuseoSans-700.ttf?AWSAccessKeyId=ASIAYLKZPEWOPZFUH6TJ&Expires=1654786809&Signature=8wtjabBkSiQHRioMSJs%2BjjKeYsg%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEA4aCWV1LXdlc3QtMSJGMEQCIDFpxoWBKeIWruNavAW08KHRnUAn7dExQqsKQMKZ9SnjAiAiVz4TJHngc0ieY%2FDSmVWBund7clAYEiUwkCz7VUiTtirvAwgWEAMaDDU3NDEwMjY0NDEyNCIMdJ6f6d7bkniY1ut1KswDXEbBNR7UTbaauvG75jcgNqAY1Zb9QhdQtlgRgBzy97hNa2DiOBaSrbIr4upuKAlHn%2BIfnS3k60N2kXxCBXNJmnCPd25rRODBibf%2FVtKhDkEmf5PxB91mx8mTuVitSPQWNyM9BsSVQ0%2FO%2F4JIVOhCSO9O%2FPcsegGVzJsqiSwdnvCikZJrEHV5%2F97T1Hgi8qkOJFdaNOiXbYSVBaTPcWWANDqoKmrJmKMtkEvx%2FapdlM0xkwXvLpcv%2BVXvQV4ZdK2KrYESierMHBUaOCL5ZS5SWailfgWJfqlFTNnSwEimvbt0%2Bebimk7aCQryWho5gPjb%2FTb%2FQ%2FWevOdYPmgscj2OMqsV37%2BqUAd85nteTof2TqHIfEvAjf68Dh7W63IU0xBMXBd03fB%2BI%2Bs6rMaXc1kqLgZXXthYDXoEbkthuV21%2BsBUR9timbYyDASB1lYsITeI66dlaFUmsYYVNe6NFK8tjA88o9A2b2M4Ound%2Bm2nlfnQQoD%2BqtTkJLjo14DU%2FWTRKRSD50GYHOXvOMxScl3bHi%2FsZqK6%2BXCIqEVVZKFUXHi%2FotQ2F6aElQZrrRohn6AqY%2B5gWG3fW5xHZivv2YlH77WT9A06kEJ%2FwlhBNjCa54eVBjqmAV1nguFp%2FS3o9v%2Bl%2FGLW3Jvg%2FZe%2FfeeeI%2BZsxg25rvYVPQJ%2F6OqB%2FxF6gpX78dj%2BYCkLRTXC7CYwMZNyo2s2%2Bbj4n63u6okezWeZqi0%2F9hLkV5BFzrSeVFZGEpQ0LqcIEwr4g3supkHG4fVGcvbrZsyMqXz4iSYJtpKNwllTvFPtIEnWRcxa9bZ%2FIpDp8M0A%2FTZOrb%2FyvmZDE55osP4bzd9pHJ7I2Rc%3D"
+                },
+                "meta": {
+                    "source": "localStyles"
+                },
+                "type": "font",
+                "originId": "MuseoSans-700",
+                "sourceId": "29e5b080-7f79-47f1-af1c-e07412ff0f6f",
+                "repositoryId": "47de96c3-1228-40a0-9b28-9d9d90e39c31"
+            },
+            "fontSize": {
+                "value": {
+                    "unit": "px",
+                    "measure": 14
+                }
+            },
+            "textAlign": {
+                "vertical": "top",
+                "horizontal": "left"
+            },
+            "lineHeight": {
+                "value": {
+                    "unit": "px",
+                    "measure": 20
+                }
+            },
+            "letterSpacing": {
+                "value": {
+                    "unit": "px",
+                    "measure": -0.20000000298023224
+                }
+            }
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "textStyle",
+        "originId": "5:113",
+        "sourceId": "29e5b080-7f79-47f1-af1c-e07412ff0f6f",
+        "repositoryId": "47de96c3-1228-40a0-9b28-9d9d90e39c31"
+    },
+    {
+        "id": "646b3b24-a3d1-40f1-8f8e-30ef7c5cbec4",
+        "createdAt": "2022-06-08T11:20:37.686Z",
+        "updatedAt": "2022-06-08T11:20:37.686Z",
+        "name": "SECONDARY/100",
+        "value": {
+            "a": 1,
+            "b": 253,
+            "g": 247,
+            "r": 230
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "5:140",
+        "sourceId": "1a78d8ff-fe10-42ef-8eff-d1015f6c9bb9",
+        "repositoryId": "47de96c3-1228-40a0-9b28-9d9d90e39c31"
+    },
+    {
+        "id": "7ec8e806-dd66-40ab-b30b-69682d4414a0",
+        "createdAt": "2022-06-08T11:20:37.697Z",
+        "updatedAt": "2022-06-08T11:20:37.697Z",
+        "name": "SECONDARY/900",
+        "value": {
+            "a": 1,
+            "b": 239,
+            "g": 180,
+            "r": 2
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "2:12",
+        "sourceId": "1a78d8ff-fe10-42ef-8eff-d1015f6c9bb9",
+        "repositoryId": "47de96c3-1228-40a0-9b28-9d9d90e39c31"
+    },
+    {
+        "id": "0caa35e4-4f35-4504-953b-448a211a725c",
+        "createdAt": "2022-06-08T12:51:29.951Z",
+        "updatedAt": "2022-06-08T12:51:29.951Z",
+        "name": "Step Label - Step Label Text",
+        "value": {
+            "font": {
+                "id": "84daa535-b781-4611-b40b-4ee1319ee241",
+                "createdAt": "2022-06-08T12:51:29.924Z",
+                "updatedAt": "2022-06-09T10:01:37.953Z",
+                "name": "MuseoSans-700",
+                "value": {
+                    "format": "ttf",
+                    "isItalic": false,
+                    "provider": "Custom font",
+                    "fontFamily": "Museo Sans",
+                    "fontWeight": 700,
+                    "fontFileMissing": false,
+                    "fontPostScriptName": "MuseoSans-700",
+                    "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/47de96c3-1228-40a0-9b28-9d9d90e39c31/font/MuseoSans-700/MuseoSans-700.ttf?AWSAccessKeyId=ASIAYLKZPEWOPZFUH6TJ&Expires=1654786809&Signature=8wtjabBkSiQHRioMSJs%2BjjKeYsg%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEA4aCWV1LXdlc3QtMSJGMEQCIDFpxoWBKeIWruNavAW08KHRnUAn7dExQqsKQMKZ9SnjAiAiVz4TJHngc0ieY%2FDSmVWBund7clAYEiUwkCz7VUiTtirvAwgWEAMaDDU3NDEwMjY0NDEyNCIMdJ6f6d7bkniY1ut1KswDXEbBNR7UTbaauvG75jcgNqAY1Zb9QhdQtlgRgBzy97hNa2DiOBaSrbIr4upuKAlHn%2BIfnS3k60N2kXxCBXNJmnCPd25rRODBibf%2FVtKhDkEmf5PxB91mx8mTuVitSPQWNyM9BsSVQ0%2FO%2F4JIVOhCSO9O%2FPcsegGVzJsqiSwdnvCikZJrEHV5%2F97T1Hgi8qkOJFdaNOiXbYSVBaTPcWWANDqoKmrJmKMtkEvx%2FapdlM0xkwXvLpcv%2BVXvQV4ZdK2KrYESierMHBUaOCL5ZS5SWailfgWJfqlFTNnSwEimvbt0%2Bebimk7aCQryWho5gPjb%2FTb%2FQ%2FWevOdYPmgscj2OMqsV37%2BqUAd85nteTof2TqHIfEvAjf68Dh7W63IU0xBMXBd03fB%2BI%2Bs6rMaXc1kqLgZXXthYDXoEbkthuV21%2BsBUR9timbYyDASB1lYsITeI66dlaFUmsYYVNe6NFK8tjA88o9A2b2M4Ound%2Bm2nlfnQQoD%2BqtTkJLjo14DU%2FWTRKRSD50GYHOXvOMxScl3bHi%2FsZqK6%2BXCIqEVVZKFUXHi%2FotQ2F6aElQZrrRohn6AqY%2B5gWG3fW5xHZivv2YlH77WT9A06kEJ%2FwlhBNjCa54eVBjqmAV1nguFp%2FS3o9v%2Bl%2FGLW3Jvg%2FZe%2FfeeeI%2BZsxg25rvYVPQJ%2F6OqB%2FxF6gpX78dj%2BYCkLRTXC7CYwMZNyo2s2%2Bbj4n63u6okezWeZqi0%2F9hLkV5BFzrSeVFZGEpQ0LqcIEwr4g3supkHG4fVGcvbrZsyMqXz4iSYJtpKNwllTvFPtIEnWRcxa9bZ%2FIpDp8M0A%2FTZOrb%2FyvmZDE55osP4bzd9pHJ7I2Rc%3D"
+                },
+                "meta": {
+                    "source": "localStyles"
+                },
+                "type": "font",
+                "originId": "MuseoSans-700",
+                "sourceId": "29e5b080-7f79-47f1-af1c-e07412ff0f6f",
+                "repositoryId": "47de96c3-1228-40a0-9b28-9d9d90e39c31"
+            },
+            "fontSize": {
+                "value": {
+                    "unit": "px",
+                    "measure": 12
+                }
+            },
+            "textAlign": {
+                "vertical": "top",
+                "horizontal": "left"
+            },
+            "lineHeight": {
+                "value": {
+                    "unit": "px",
+                    "measure": 14
+                }
+            }
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "textStyle",
+        "originId": "58:502",
+        "sourceId": "29e5b080-7f79-47f1-af1c-e07412ff0f6f",
+        "repositoryId": "47de96c3-1228-40a0-9b28-9d9d90e39c31"
+    },
+    {
+        "id": "536e1112-1dac-4031-b5f8-7c4c47161087",
+        "createdAt": "2022-06-08T11:20:37.712Z",
+        "updatedAt": "2022-06-08T11:20:37.712Z",
+        "name": "TERTIARY/!00",
+        "value": {
+            "a": 1,
+            "b": 255,
+            "g": 252,
+            "r": 247
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "33:47",
+        "sourceId": "1a78d8ff-fe10-42ef-8eff-d1015f6c9bb9",
+        "repositoryId": "47de96c3-1228-40a0-9b28-9d9d90e39c31"
+    },
+    {
+        "id": "3cffe451-f38e-4158-b1ac-6283f12741ba",
+        "createdAt": "2022-06-08T11:20:37.696Z",
+        "updatedAt": "2022-06-08T11:20:37.696Z",
+        "name": "TERTIARY/900",
+        "value": {
+            "a": 1,
+            "b": 255,
+            "g": 228,
+            "r": 173
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "2:13",
+        "sourceId": "1a78d8ff-fe10-42ef-8eff-d1015f6c9bb9",
+        "repositoryId": "47de96c3-1228-40a0-9b28-9d9d90e39c31"
+    },
+    {
+        "id": "62067106-fb04-4e19-b84a-165043f46092",
+        "createdAt": "2022-06-08T11:20:37.720Z",
+        "updatedAt": "2022-06-08T11:20:37.720Z",
+        "name": "WHITE",
+        "value": {
+            "a": 1,
+            "b": 255,
+            "g": 255,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "2:14",
+        "sourceId": "1a78d8ff-fe10-42ef-8eff-d1015f6c9bb9",
+        "repositoryId": "47de96c3-1228-40a0-9b28-9d9d90e39c31"
+    }
+]
